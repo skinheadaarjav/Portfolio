@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Aarjav Gajjar | Portfolio</title> 
+</head>
+<body> 
+<h1><center>Aarjav Gajjar</center></h1> 
+<a> href="https://www.reddit.com/user/aarjavg23">@u/aarjav23</a>
+<hr>
+<h2><u><center>About my work</center></u></h2>
+<p style="font-family:arial"><center>I make films about issues in society and the economy.<br> A lot of my work have an aggresive approach towards the topic and have deeper meanings engraved in them.<br> I spend a lot of my time working on the philosophy behind every one of my films and how each the frames relate to the topic in hand.<br> My goal is the make the audience think about the issues that lie beneath the sugar coating of society.<br></center></p> 
+<hr>
+<h1><u><center>Films</h1></u></center>
+<h3><center><u>ILLEGAL DREAMS</u></center></h3> 
+<p><center>This film/edit was the start of my passion for filming and editing <br>it doesn't have any deep meaning but it's quiet sentimental to me.</center></p> 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/l2PTGvmcI8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<hr>
+<h2><center>Upcoming Projects</center></u></h2>
+<h2><center>Fear God Alone</center></h2>
+<p><center>My debut project.<br> in which I visualise materialism and how addictive and distracting it is,<br> and how it can lead to a lot of the problems people have.<br>Releasing 20th June.</center></p>
+<center><img src="C:\Users\Aarjav Gajjar\Desktop\portfolio\fear_god_alone.png" width="640" height="480"></center>
+
